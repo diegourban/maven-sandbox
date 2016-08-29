@@ -2,3 +2,6 @@ mvn archetype:generate -DartifactId=maven-sandbox -DgroupId=br.com.urban.sandbox
 
 mvn -o : execute offline, without checking for update on remote repository
 http://repo.maven.apache.org/maven2
+
+Update the dependecy versions
+mvn versions:use-latest-versions
