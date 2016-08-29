@@ -1,1 +1,4 @@
 mvn archetype:generate -DartifactId=maven-sandbox -DgroupId=br.com.urban.sandbox.maven -DinteractiveMode=false -DarchetypeArtifactId=maven-archetype-quickstart
+
+mvn -o : execute offline, without checking for update on remote repository
+http://repo.maven.apache.org/maven2
