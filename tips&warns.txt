@@ -1,0 +1,3 @@
+Watch out for workspace projects that are dependencies. Maven will add a reference to the project at the library, not the jar.
+
+Runtime dependencies will be available on the IDE, but when you run mvn compile outside, it will crash.
