@@ -1,4 +1,4 @@
-package br.com.urban.sandbox.maven;
+package urban.sandbox.maven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

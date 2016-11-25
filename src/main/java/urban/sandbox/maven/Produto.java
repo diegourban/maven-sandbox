@@ -1,4 +1,4 @@
-package br.com.urban.sandbox.maven;
+package urban.sandbox.maven;
 
 public class Produto {
 
